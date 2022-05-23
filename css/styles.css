@@ -75,15 +75,14 @@ p {
 }
 
 @media (max-width: 991px) {
-  #title {
+  body {
     text-align: center;
   }
 
   .title-img {
     transform: rotate(0);
     position: static;
-    text-align: center;
-  }
+     }
 }
 
 /* features-section */
