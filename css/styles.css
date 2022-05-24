@@ -75,7 +75,7 @@ p {
 }
 
 @media (max-width: 991px) {
-  body {
+ #title .container-fluid {
     text-align: center;
   }
 
